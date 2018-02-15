@@ -1,5 +1,0 @@
-new
-size 894,894
-copyresized -1,-1,-1,-1,0,0,893,893,ICE2018_nobooths.gif
-name B64B154C2B53E299ABB47F4573E32BA4A201801301115470215.gif
-end 
